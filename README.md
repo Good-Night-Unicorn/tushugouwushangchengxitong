@@ -1,3 +1,14 @@
+## 书海悦读 - Vue3 图书购物商城
+**毕业设计所有选题地址： https://github.com/Good-Night-Unicorn?tab=repositories**
+
+**完整代码收费可以加QQ：3042127848 咨询接毕业设计论文**
+
+**作者QQ：3042127848 备用q：2777345948 (支持修改、部署调试、支持代做毕设)**
+
+**接网站建设、小程序、H5、APP、各种系统等**
+
+**选题+开题报告+任务书+程序定制+安装调试+论文+答辩ppt都可以做**
+**详细视频演示**
 # 书海悦读 - Vue3 图书购物商城
 
 一个基于 Vue3 + TypeScript + Vite 的纯前端图书购物商城系统。
@@ -172,4 +183,19 @@ npm run preview
 ## 许可证
 
 MIT License
+
+效果图:
+![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/deb62a371d6043089972ed9bb546cea8.png)
+![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/566a77eb4c904615a97c3c97114db486.png)
+![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/4c534f62dc254f3ca2330984eef16142.png)
+![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/5d7ca30256dd4780a8e0180b11410fde.png)
+![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/d365e541961145da8a74f0659906cf52.png)
+![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/8711515f09814ba688a0224fd4ba37eb.png)
+![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/62f928623dc246fdb88bffa0554ca1d5.png)
+![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/8e7026186585459f95edec39ec490bbd.png)
+![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/9a8f91449749415ba3a02202b913d41a.png)
+![在这里插入图片描述](https://i-blog.csdnimg.cn/direct/8b29628b195d4119beb2b04ab67b5818.png)
+
+
+
 
